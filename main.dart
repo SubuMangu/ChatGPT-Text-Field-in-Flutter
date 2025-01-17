@@ -162,6 +162,7 @@ class _ChatGPTTextFieldState extends State<ChatGPTTextField> with SingleTickerPr
             )
             )
         ),
+        // Fix this part of the code in Expanded Widget
         Expanded(child:Padding(
                   padding: EdgeInsets.only(bottom: 10),
                   child: Container(
